@@ -1,0 +1,56 @@
+{
+    "time_stats": [
+        {
+            "Parameter": "mean",
+            "Value Time (ms)": 0.10493333333333334
+        },
+        {
+            "Parameter": "std",
+            "Value Time (ms)": 0.10146705540880417
+        },
+        {
+            "Parameter": "min",
+            "Value Time (ms)": 0.0382
+        },
+        {
+            "Parameter": "25%",
+            "Value Time (ms)": 0.046549999999999994
+        },
+        {
+            "Parameter": "50%",
+            "Value Time (ms)": 0.0549
+        },
+        {
+            "Parameter": "75%",
+            "Value Time (ms)": 0.1383
+        },
+        {
+            "Parameter": "max",
+            "Value Time (ms)": 0.2217
+        },
+        {
+            "Parameter": "sum",
+            "Value Time (ms)": 0.3148
+        }
+    ],
+    "countries": [
+        {
+            "Region": "America",
+            "Country Name": "Colombia",
+            "Language": "MOCKED_HASH",
+            "Time (ms)": 0.2217
+        },
+        {
+            "Region": "Europe",
+            "Country Name": "Germany",
+            "Language": "MOCKED_HASH",
+            "Time (ms)": 0.0382
+        },
+        {
+            "Region": "Asia",
+            "Country Name": "China",
+            "Language": "MOCKED_HASH",
+            "Time (ms)": 0.0549
+        }
+    ]
+}
