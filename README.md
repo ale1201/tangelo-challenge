@@ -18,7 +18,7 @@ Los datos generados se guardan en un archivo JSON llamado 'data.json', donde se 
 
 #### Otros
 
-Se implementaron pruebas unitarias haciendo uso de la librería unittest, los cuales verifican el funcionamiento correcto de la función response_countries(), ayudando a garantizar la calidad del código. Para los tests, hay que tener en cuenta que se usaron 'mocks' proporcionados por la libreria unittest; esto es porque como se requiere hacer tests únicamente de la logica de la función, se hacen mocks de la conexión al API y a la base de datos, ya que son funcionalidades que hacen uso de librerias externas oficiales, no es necesario probar su funcionamiento.
+Se implementaron pruebas unitarias haciendo uso de la librería unittest, los cuales verifican el funcionamiento correcto de la función response_countries(), ayudando a garantizar la calidad del código. Para los tests, hay que tener en cuenta que se usaron 'mocks' proporcionados por la libreria unittest; esto es porque se requiere hacer tests únicamente de la logica de la función, se hacen mocks de la conexión al API y a la base de datos, ya que son funcionalidades que hacen uso de librerias externas oficiales, no es necesario probar su funcionamiento.
 
 
 Se pueden realizar mejoras en la manejo de excepciones, la optimización del código y la modularización para facilitar el mantenimiento y la escalabilidad.
