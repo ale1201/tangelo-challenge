@@ -13,7 +13,7 @@ Se hace uso de la libreria 'requests' para realizar una solicitud GET a la API d
 
 Para cada tiempo de procesamiento para crear una fila de un país, se usa time.perf_counter(), ya que tiene mayor precisión para tiempos de procesamiento cortos.
 
-Los datos procesados en un dataframe, también son almacenados en una base de datos SQLite que se encuentra en la carpeta /database/, el nombre de la base de datos es 'tangelo-database.db'
+Los datos procesados en un dataframe, también son almacenados en una base de datos SQLite que se encuentra en la carpeta /database/, el nombre de la base de datos es 'tangelo-database.db'.
 Los datos generados se guardan en un archivo JSON llamado 'data.json', donde se almacena la información extraida de los países  las estadísticas correspondientes a los tiempos de procesamiento de cada fila.
 
 #### Otros
